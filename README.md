@@ -1,1 +1,1 @@
-Test
+This is a simulation of using the martingale strategy on the game Roulette. You can read more about martingale here: https://en.wikipedia.org/wiki/Martingale_(betting_system). The martingale stategy basically says to double your bet after each round you lose. Once you win a round, return to your inital bet. This may seem like an infinite money glitch, however, casinos usually limit this play by enforcing table limits. This simulation will show that no matter how many rounds you win, the odds are against you, and you will eventually lose.
